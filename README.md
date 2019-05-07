@@ -1,3 +1,5 @@
+![plexstats image](https://preview.redd.it/9732f2fcjiw21.jpg?width=960&crop=smart&auto=webp&s=52fa24ed2295ac9c8947bc426aa90816dc8819c1)
+
 # Plexstats
 Python script that checks the tautulli API and outputs results to an inkyphat e-ink display
 
