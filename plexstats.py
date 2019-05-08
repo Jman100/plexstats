@@ -17,7 +17,7 @@ f = open("tempfile.txt", "r")
 
 data = json.loads(r.text)["response"]["data"]
 stream_count = int(data["stream_count"])
-farts, height_addition = font.getsize("TEST")
+emptyvar, height_addition = font.getsize("TEST")
 height_addition = height_addition - 2
 height_multiplier = 0
 counter = 0
